@@ -61,7 +61,7 @@
     "madge": "^4.0.2",
     "node-gyp": "^8.1.0",
     "phantomjs-prebuilt": "^2.1.16",
-    "postcss": "^8.3.5",
+    "postcss": "^8.4.31",
     "prettier": "^2.7.1",
     "prettier-plugin-organize-imports": "^3.2.4",
     "readcontrol": "^1.0.0",
